@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<b:books xmlns:xi="http://www.w3.org/2001/XMLSchema-instance" xmlns:b="http://www.booksinfo.com" xi:schemaLocation="http://www.booksinfo.com books.xsd">
+  <book>
+		<bid>101</bid>
+		<bname>Harry Potter</bname>
+		<author>JK Rowling</author>
+		<publisher>Magic Book</publisher>
+	</book>
+	<book>
+		<bid>102</bid>
+		<bname>Wings of Fire</bname>
+		<author>Abdul Kalam</author>
+		<publisher>Motivation</publisher>
+	</book>
+</b:books>
